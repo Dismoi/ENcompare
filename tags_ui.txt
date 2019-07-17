@@ -1240,6 +1240,8 @@ tagCraftingProductBoxCompletion=Take your newly assembled item from the worktabl
 
 tagCraftingInsterComponent=Add components specified by a blueprint to these slots.
 
+tagCraftingSearchBoxInfo=Enter search parameters to filter Blueprints based on item names or desired stats.
+
 #Subheadings
 
 tagCraftingAxes=AXES
